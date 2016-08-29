@@ -1,4 +1,5 @@
 # Network Intrusion Detection using Decision Trees
+- Programming Assignment for Elective Course CS 176 (Data Mining)
 - Predictive decision tree model is used to detect computer network intrusion by classifying TCP records as either good or bad connections.
 - C5.0 package in R to build and analyze decision trees, generate rulesets, and predict the labels (normal or attack) of a test dataset given the decision tree model of the training set.
 
